@@ -1,0 +1,21 @@
+[submodule "idic"]
+	path = idic
+	url = https://github.com/InfraSIM/idic.git
+[submodule "vpduserv"]
+	path = vpduserv
+	url = https://github.com/InfraSIM/vpduserv.git
+[submodule "openipmi"]
+	path = openipmi
+	url = https://github.com/InfraSIM/openipmi.git
+[submodule "vracksystem"]
+	path = vracksystem
+	url = https://github.com/InfraSIM/vracksystem.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/InfraSIM/tools.git
+[submodule "test"]
+	path = test
+	url = https://github.com/InfraSIM/test.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/InfraSIM/qemu.git
